@@ -11,6 +11,6 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zephyrproject-rtos/zephyr"
+    "url": "https://github.com/fcgdam/sdk-zephyr"
   }
 }
