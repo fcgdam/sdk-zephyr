@@ -1,6 +1,16 @@
 {
-    "description": "Zephyr Nordic Connect SDK",
-    "name": "framework-zephyr",
-    "url": "https://www.zephyrproject.org/",
-    "version": "2.7.99"
+  "name": "framework-zephyr",
+  "version": "2.7.99-nordic",
+  "description": "Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures",
+  "keywords": [
+    "framework",
+    "rtos",
+    "hal"
+  ],
+  "homepage": "https://www.zephyrproject.org",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zephyrproject-rtos/zephyr"
+  }
 }
