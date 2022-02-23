@@ -1,0 +1,6 @@
+{
+    "description": "Zephyr Nordic Connect SDK",
+    "name": "framework-zephyr",
+    "url": "https://www.zephyrproject.org/",
+    "version": "2.7.99"
+}
